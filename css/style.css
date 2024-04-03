@@ -1,0 +1,44 @@
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    stroke-width: 1px;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 0.9em;
+}
+
+.title {
+    font-family: sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.states {
+    fill: #FFF;
+    stroke: #CCC;
+    stroke-width: 1px;
+}
+
+.gratLines {
+    fill: none;
+    stroke: #656565;
+    stroke-width: 0.5px;
+}
+
+.gratBackground {
+    fill: #88cdff;
+}
+
+.map {
+    border: medium solid #999;
+}
+
+.regions {
+    fill: rgb(0, 0, 0)000;
+    stroke: #CCC;
+    stroke-width: 1px;
+}
